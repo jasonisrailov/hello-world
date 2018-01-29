@@ -3,7 +3,13 @@ This is just a short and simple hello world respiratory.
 
 Hello World!
 
-I am Jason and I love to code, play sports, and create/play games.
-Some of my favorite sports are: lacrosse, biking, rock climbing, and basketball.
-My favorite foods are: pancakes, sanwhiches, and calzones.
+My name is Jason Israilov. I am a senior in High School and I love to code. 
+Not only do I have a passion for computer science, but I also like to play sports and hang out with friends.
+Some of my favorite sports are lacrosse, biking, rock climbing, bowling, ping-pong and basketball.
 
+My favorite foods are sandwiches, pastas, burgers, and calzones. 
+My favorite fruits are strawberries and apples.
+
+I am very excited to continue to learn to code. I believe that the best programming language to learn as a beginner is Python.
+
+The the programming languages that will be booming in 2018 are Python, Kotlin, Go, and Swift.
