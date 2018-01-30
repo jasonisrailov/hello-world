@@ -13,3 +13,7 @@ My favorite fruits are strawberries and apples.
 I am very excited to continue to learn to code. I believe that the best programming language to learn as a beginner is Python.
 
 The the programming languages that will be booming in 2018 are Python, Kotlin, Go, and Swift.
+
+I have created a simple personal website for anyone wanting to contact me: https://jasonisrailov.github.io.
+
+I also contribute a lot to the NHacks Hackathon website: http://nhacks.org.
